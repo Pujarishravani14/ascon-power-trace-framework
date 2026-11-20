@@ -1,0 +1,9 @@
+,nd=1,nd=2
+Indices,23,21
+Traces per index,100000,100000
+Mean expected rank,2.96,33.0
+Top-1,7/23,1/21
+Top-5,20/23,2/21
+Top-10,23/23,3/21
+Key-bit accuracy (%),64.06,56.25
+Exact k0 recovery,No,No
